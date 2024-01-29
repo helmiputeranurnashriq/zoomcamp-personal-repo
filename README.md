@@ -1,2 +1,3 @@
-# zoomcamp-personal-repo
-A repository to submit homework and projects.
+# My Zoomcamp Personal Repo
+A repository to submit homework and projects
+
